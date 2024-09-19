@@ -1,0 +1,24 @@
+body{
+    background-color: #f8dad3;
+
+}
+#titulo{
+    color:black
+}
+#menu{
+    height: 50px;/*altura*/
+   min-height: 25px;
+   background-color:#8a6963;
+   color: #8a6963;
+   text-decoration: none;
+}
+#header{
+    height: 100px;/*altura*/
+    background-color: #f8dad3;
+}
+h1{
+    color:black;
+}
+p{
+    font-size:20px;
+}
