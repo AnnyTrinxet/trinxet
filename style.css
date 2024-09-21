@@ -91,10 +91,26 @@ footer {
   margin-top: 20px;
   border-radius: 8px;
 }
-
+.container{
+    display: flex;
+    flex-direction: row;  
+    gap:20px;
+ }
 footer p {
   margin: 0;
 }
 #imagem_do_salao{
   text-align: center;
 }
+footer p {
+    margin: 0;
+  }
+    #imagem_cosmeticos{
+        text-align: center;
+    }
+    footer p {
+        margin: 0;
+      }
+      #imagem_serviços{
+          text-align: center;
+      }
